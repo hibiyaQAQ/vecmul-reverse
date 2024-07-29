@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/vecmul_service.py"
+    }
+  ],
+  "functions": {
+    "*.py": {
+      "maxDuration": 60
+    }
+  }
+}
