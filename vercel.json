@@ -5,10 +5,5 @@
       "src": "/(.*)",
       "dest": "/vecmul_service.py"
     }
-  ],
-  "functions": {
-    "*.py": {
-      "maxDuration": 60
-    }
-  }
+  ]
 }
