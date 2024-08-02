@@ -27,7 +27,7 @@ jobs:
         import requests
 
         websites = [
-            'https://vecmul-reverse.onrender.com'
+            'https://one-api-jtuu.onrender.com/'
             # 添加更多网站
         ]
 
